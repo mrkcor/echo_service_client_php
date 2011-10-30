@@ -5,7 +5,9 @@ SOAP client for the [EchoService](https://github.com/mkremer/echo_service)
 Usage
 -----
 Clone the [EchoService](https://github.com/mkremer/echo_service) Git repository and get it up and running
+
 Clone this Git repository
+
 On your shell run: ./echo.php "Whatever you want to Echo"
 
 License
